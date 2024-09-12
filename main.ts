@@ -1,8 +1,9 @@
 import './style.css'
-import './temas-ts/01-tiposDat.ts'
+/*import './temas-ts/01-tiposDat.ts'
 import './temas-ts/02-interfaz.ts'
 import './temas-ts/03-funciones.ts'
-import './temas-ts/04-destructuracion-obj-arre.ts'
+import './temas-ts/04-destructuracion-obj-arre.ts'*/
+import './temas-ts/03-funciones.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
